@@ -1,5 +1,5 @@
-### Olá pessoas! 👋
+<h1 align = "center"> Olá pessoas! 👋 </h1>
 
-Essa é minha jornada para me tornar um Mestre Jedi do desenvolvimento, vem comigo!
+<p align = "center"> Essa é minha jornada para me tornar um Stardust Crusader do desenvolvimento, vem comigo! E lembrem-se <b>Diamonds are unbreakable</b></p>
 
-https://www.deviantart.com/woothrad/art/Dio-vs-Jotaro-sprite-gif-877507361
+<p align = "center"> <img width = 450px src ="assets/ora ora ora.gif"> </p>
