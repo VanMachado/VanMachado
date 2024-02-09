@@ -27,5 +27,7 @@ https://www.linkedin.com/in/van-machado-csharp-dotnet-developer/
                                                                             
 
 <p align="center">
-  <img src="https://github.com/VanMachado/VanMachado/raw/main/assets/jotaro.gif" alt="Ora Ora Ora">
+  <img src="https://github.com/VanMachado/VanMachado/blob/master/assets/jotaro.gif?raw=true" alt="Ora Ora Ora">
 </p>
+
+
