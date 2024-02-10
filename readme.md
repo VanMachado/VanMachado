@@ -20,7 +20,7 @@ https://www.linkedin.com/in/van-machado-csharp-dotnet-developer/
 
 ## Gráfico de Contribuições
 
-
+![Contribution Grid Snake](https://raw.githubusercontent.com/VanMachado/VanMachado/output/github-contribution-grid-snake-dark.svg)
 
                                                                             
 
