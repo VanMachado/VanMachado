@@ -1,3 +1,5 @@
+
+
 ## Sobre Mim
 
 Olá! 👋 Meu nome é Van Damme Machado, sou apaixonado por tecnologia e desenvolvimento de software. Abaixo estão algumas informações sobre mim e minhas atividades no GitHub.
@@ -18,10 +20,12 @@ https://www.linkedin.com/in/van-machado-csharp-dotnet-developer/
 
 ## Gráfico de Contribuições
 
-![Gráfico de Contribuições](https://ghchart.rshah.org/VanMachado)
+![](./profile-3d-contrib/profile-night-view.svg)
 
                                                                             
 
 <p align="center">
   <img src="https://github.com/VanMachado/VanMachado/blob/master/assets/jotaro.gif?raw=true" alt="Ora Ora Ora">
 </p>
+
+
