@@ -20,12 +20,10 @@ https://www.linkedin.com/in/van-machado-csharp-dotnet-developer/
 
 ## Gráfico de Contribuições
 
-![](./profile-3d-contrib/profile-night-view.svg)
+
 
                                                                             
 
 <p align="center">
   <img src="https://github.com/VanMachado/VanMachado/blob/master/assets/jotaro.gif?raw=true" alt="Ora Ora Ora">
 </p>
-
-
