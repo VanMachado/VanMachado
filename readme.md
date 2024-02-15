@@ -6,9 +6,7 @@ Olá! 👋 Meu nome é Van Damme Machado, sou apaixonado por tecnologia e desenv
 
 ## Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/van-damme-machado/)
-
-https://www.linkedin.com/in/van-machado-csharp-dotnet-developer/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/van-machado-csharp-dotnet-developer/)
 
 ## Tecnologias Principais
 
